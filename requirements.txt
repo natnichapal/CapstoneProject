@@ -7,3 +7,4 @@ xlrd
 openpyxl
 psutil
 kaleido
+pandas
