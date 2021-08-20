@@ -1,9 +1,9 @@
-pip install streamlit
-pip install plotly
-pip install fpdf
-pip install pybase64
-pip install xlsxwriter
-pip install xlrd
-pip install openpyxl
-pip install psutil
-pip install kaleido
+sudo apt-get install streamlit
+sudo apt-get install plotly
+sudo apt-get install fpdf
+sudo apt-get install pybase64
+sudo apt-get install xlsxwriter
+sudo apt-get install xlrd
+sudo apt-get install openpyxl
+sudo apt-get install psutil
+sudo apt-get install kaleido
