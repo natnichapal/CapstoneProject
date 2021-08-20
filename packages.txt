@@ -1,9 +1,9 @@
-sudo pip install streamlit
-sudo pip install plotly
-sudo pip install fpdf
-sudo pip install pybase64
-sudo pip install xlsxwriter
-sudo pip install xlrd
-sudo pip install openpyxl
-sudo pip install psutil
-sudo pip install kaleido
+pip install streamlit
+pip install plotly
+pip install fpdf
+pip install pybase64
+pip install xlsxwriter
+pip install xlrd
+pip install openpyxl
+pip install psutil
+pip install kaleido
