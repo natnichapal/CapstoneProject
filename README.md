@@ -1,6 +1,6 @@
 # Capstone
 
-**SJCoC Reporting Web Application**:
+**SJCoC Reporting Web Application**: https://share.streamlit.io/natnichapal/capstoneproject/main/testing_out_streamlit.py
 <br>
 <br>
 
